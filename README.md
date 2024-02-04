@@ -14,7 +14,7 @@ The Font Recommendation System is a Python tool that leverages a Siamese neural 
 *   TensorFlow 2.x
 *   NumPy
 *   Gensim (for loading Word2Vec embeddings)
-*   Data source: https://speedysense.com/2500-fonts-bundle-download-free/
+*   Dataset source: https://speedysense.com/2500-fonts-bundle-download-free/
 
 ## **Example**
 
@@ -45,3 +45,9 @@ Recommended fonts for Ac.ttf:
     *   Train the Siamese model on your font dataset using the **fit** method.
 4.  **Recommendation:**
     *   Use the **recommend\_fonts** function to recommend fonts based on a given base font.
+
+  
+## **Key Takeaways**
+
+*   **Contrast and Theme Assessment:** The system excels in evaluating font pairs based on both contrast and thematic similarity, offering users a comprehensive approach to font selection.
+*   **User-Friendly Recommendations:** With the **recommend\_fonts** function, users can easily obtain recommendations for similar fonts, streamlining the design process and fostering creativity.
