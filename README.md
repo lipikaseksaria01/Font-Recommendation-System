@@ -14,6 +14,7 @@ The Font Recommendation System is a Python tool that leverages a Siamese neural 
 *   TensorFlow 2.x
 *   NumPy
 *   Gensim (for loading Word2Vec embeddings)
+*   Data source: https://speedysense.com/2500-fonts-bundle-download-free/
 
 ## **Example**
 
