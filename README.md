@@ -1,7 +1,3 @@
-```plaintext
-Font Recommendation System
-```
-
 ## **Overview**
 
 The Font Recommendation System is a Python tool that leverages a Siamese neural network with pre-trained Word2Vec embeddings to recommend fonts based on similarity. The system aims to assist designers in selecting font combinations that exhibit balanced contrast and share common themes.
